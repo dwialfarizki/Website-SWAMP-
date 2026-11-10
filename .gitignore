@@ -1,0 +1,21 @@
+# Python / FastAPI Backend
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+*.db
+*.sqlite3
+.env
+
+# React / Vite Frontend
+node_modules/
+dist/
+build/
+.env.local
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
